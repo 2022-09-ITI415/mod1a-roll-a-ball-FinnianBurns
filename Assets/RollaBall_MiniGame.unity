@@ -283,6 +283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 297846979}
+  winTextObject: {fileID: 1292238902}
 --- !u!4 &88050352 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 120380622243928311, guid: 7ae084847b5f22948b5fc6be31965f14, type: 3}
